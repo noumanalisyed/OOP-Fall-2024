@@ -1,4 +1,4 @@
-/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/syednoumanalishah/CLionProjects/OOP-Dev/prolem-9-14(Huge-Integer) -B /Users/syednoumanalishah/CLionProjects/OOP-Dev/prolem-9-14(Huge-Integer)/cmake-build-debug
+"/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/ninja/mac/x64/ninja" -G Ninja -S /Users/syednoumanalishah/OOP-Fall-2024/prolem-9-14(Huge-Integer) -B /Users/syednoumanalishah/OOP-Fall-2024/prolem-9-14(Huge-Integer)/cmake-build-debug
 -- Configuring done (0.1s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/syednoumanalishah/CLionProjects/OOP-Dev/prolem-9-14(Huge-Integer)/cmake-build-debug
+-- Build files have been written to: /Users/syednoumanalishah/OOP-Fall-2024/prolem-9-14(Huge-Integer)/cmake-build-debug

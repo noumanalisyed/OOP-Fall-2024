@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(prolem_9_14_Huge_Integer_ main.cpp
         HugeInteger.h
-        HugeInteger.cpp)
+        HugeInteger.cpp
+        main.cpp)

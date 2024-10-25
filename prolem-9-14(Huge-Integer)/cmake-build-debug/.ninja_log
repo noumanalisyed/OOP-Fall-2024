@@ -1,23 +1,7 @@
 # ninja log v6
-26	2298	1729764005556688888	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	a2786b9feadb53bb
-2298	2431	1729764007828294083	prolem_9_14_Huge_Integer_	d557d0572debfdf1
-21	1183	1729764149303778344	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	a2786b9feadb53bb
-22	1204	1729764149304818200	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	f2a3521c9295df0a
-1204	1328	1729764150486658670	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
-21	2690	1729764620672475082	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	a2786b9feadb53bb
-22	2693	1729764620674109582	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	f2a3521c9295df0a
-2693	3563	1729764623344840496	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
-16	1115	1729764673800290661	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	a2786b9feadb53bb
-1115	1200	1729764674898663778	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
-32	1480	1729764691819209841	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	a2786b9feadb53bb
-1480	1600	1729764693266849609	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
-57	2293	1729764748426646265	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	f2a3521c9295df0a
-2293	2416	1729764750662768932	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
-21	2235	1729765250884739411	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	a2786b9feadb53bb
-21	2323	1729765250885258299	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	f2a3521c9295df0a
-2324	2490	1729765253187401111	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
-26	2172	1729765331133817997	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	f2a3521c9295df0a
-2172	2560	1729765333279570726	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
 18	1323	1729765443579255805	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	a2786b9feadb53bb
-19	1358	1729765443580112971	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	f2a3521c9295df0a
 1358	1450	1729765444919725485	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
+19	1358	1729765443580112971	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	f2a3521c9295df0a
+31	1665	1729849807914895091	CMakeFiles/prolem_9_14_Huge_Integer_.dir/main.cpp.o	deb3a796e2f2fa2d
+32	1688	1729849807915739890	CMakeFiles/prolem_9_14_Huge_Integer_.dir/HugeInteger.cpp.o	3e2472627dbcff29
+1689	1839	1729849809572198934	prolem_9_14_Huge_Integer_	95fc47a8a72282ac
