@@ -3,4 +3,5 @@ project(Projject_Time)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Projject_Time main.cpp)
+add_executable(Projject_Time main.cpp
+        Time.cpp)
