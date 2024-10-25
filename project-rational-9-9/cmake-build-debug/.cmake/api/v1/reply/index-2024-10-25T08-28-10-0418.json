@@ -8,25 +8,25 @@
 		},
 		"paths" : 
 		{
-			"cmake" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake",
-			"cpack" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cpack",
-			"ctest" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/ctest",
-			"root" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.29"
+			"cmake" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/cmake",
+			"cpack" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/cpack",
+			"ctest" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/ctest",
+			"root" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/share/cmake-3.30"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 3,
-			"minor" : 29,
-			"patch" : 6,
-			"string" : "3.29.6",
+			"minor" : 30,
+			"patch" : 3,
+			"string" : "3.30.3",
 			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-af5d3822bca89bb75d4e.json",
+			"jsonFile" : "codemodel-v2-65f2ef3a7f1b685269b3.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-957cd3cac934cad26eae.json",
+			"jsonFile" : "cache-v2-ece6220c0ffc30a48440.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,12 +44,12 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-38027e4059b36f088b3b.json",
+			"jsonFile" : "cmakeFiles-v1-6ee766882d3a11c84368.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
 				"major" : 1,
-				"minor" : 0
+				"minor" : 1
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-957cd3cac934cad26eae.json",
+			"jsonFile" : "cache-v2-ece6220c0ffc30a48440.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,17 +76,17 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-38027e4059b36f088b3b.json",
+			"jsonFile" : "cmakeFiles-v1-6ee766882d3a11c84368.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
 				"major" : 1,
-				"minor" : 0
+				"minor" : 1
 			}
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-af5d3822bca89bb75d4e.json",
+			"jsonFile" : "codemodel-v2-65f2ef3a7f1b685269b3.json",
 			"kind" : "codemodel",
 			"version" : 
 			{

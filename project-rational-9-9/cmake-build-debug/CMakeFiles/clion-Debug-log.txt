@@ -1,7 +1,4 @@
-/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/syednoumanalishah/CLionProjects/project-rational-9-9 -B /Users/syednoumanalishah/CLionProjects/project-rational-9-9/cmake-build-debug
+"/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/ninja/mac/x64/ninja" -G Ninja -S /Users/syednoumanalishah/OOP-Fall-2024/project-rational-9-9 -B /Users/syednoumanalishah/OOP-Fall-2024/project-rational-9-9/cmake-build-debug
 -- Configuring done (0.1s)
 -- Generating done (0.1s)
--- Build files have been written to: /Users/syednoumanalishah/CLionProjects/project-rational-9-9/cmake-build-debug
-
-Cannot get compiler information:
-	Compiler command timed out: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -xc++ -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.7 -fpch-preprocess -v -dD -E
+-- Build files have been written to: /Users/syednoumanalishah/OOP-Fall-2024/project-rational-9-9/cmake-build-debug

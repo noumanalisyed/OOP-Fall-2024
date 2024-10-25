@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "project_rational_9_9::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-project_rational_9_9-Debug-2d7fa1d8240a4821b858.json",
+					"jsonFile" : "target-project_rational_9_9-Debug-5093b68b6d33c3a2a0fe.json",
 					"name" : "project_rational_9_9",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/syednoumanalishah/CLionProjects/project-rational-9-9/cmake-build-debug",
-		"source" : "/Users/syednoumanalishah/CLionProjects/project-rational-9-9"
+		"build" : "/Users/syednoumanalishah/OOP-Fall-2024/project-rational-9-9/cmake-build-debug",
+		"source" : "/Users/syednoumanalishah/OOP-Fall-2024/project-rational-9-9"
 	},
 	"version" : 
 	{
