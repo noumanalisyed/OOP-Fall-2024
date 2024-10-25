@@ -1,9 +1,6 @@
 # ninja log v6
-14	2359	1727868858812665613	CMakeFiles/complex_project.dir/main.cpp.o	91ce35f5b99042f
-2364	2505	1727868861162655093	complex_project	923ee96b3bde2f8b
-28	1763	1727869008528603703	CMakeFiles/complex_project.dir/main.cpp.o	91ce35f5b99042f
-1763	1872	1727869010263999277	complex_project	923ee96b3bde2f8b
-39	2091	1727869144901936948	CMakeFiles/complex_project.dir/main.cpp.o	91ce35f5b99042f
-2091	2206	1727869146953387445	complex_project	923ee96b3bde2f8b
 189	3236	1727869691140459038	CMakeFiles/complex_project.dir/main.cpp.o	91ce35f5b99042f
 3237	3708	1727869694188319651	complex_project	923ee96b3bde2f8b
+50	4360	1729846644538687080	CMakeFiles/complex_project.dir/main.cpp.o	314ea8ba8070999f
+53	4499	1729846644541401355	CMakeFiles/complex_project.dir/ComplexNo.cpp.o	5551c21f5446e171
+4499	4649	1729846648986882389	complex_project	8c77dd727062eca

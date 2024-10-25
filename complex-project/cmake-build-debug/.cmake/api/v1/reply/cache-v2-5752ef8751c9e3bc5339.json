@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/syednoumanalishah/CLionProjects/complex-project/cmake-build-debug"
+			"value" : "/Users/syednoumanalishah/OOP-Fall-2024/complex-project/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "29"
+			"value" : "30"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "6"
+			"value" : "3"
 		},
 		{
 			"name" : "CMAKE_COLOR_DIAGNOSTICS",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake"
+			"value" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cpack"
+			"value" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/ctest"
+			"value" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/syednoumanalishah/CLionProjects/complex-project/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/syednoumanalishah/OOP-Fall-2024/complex-project/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/syednoumanalishah/CLionProjects/complex-project"
+			"value" : "/Users/syednoumanalishah/OOP-Fall-2024/complex-project"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -555,7 +555,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/usr/bin/install_name_tool"
+			"value" : "/Users/syednoumanalishah/anaconda3/bin/install_name_tool"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -591,11 +591,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "make program"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja"
+			"type" : "FILEPATH",
+			"value" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/ninja/mac/x64/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -863,7 +863,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.29"
+			"value" : "/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/share/cmake-3.30"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/syednoumanalishah/CLionProjects/complex-project/cmake-build-debug"
+			"value" : "/Users/syednoumanalishah/OOP-Fall-2024/complex-project/cmake-build-debug"
 		},
 		{
 			"name" : "complex_project_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/syednoumanalishah/CLionProjects/complex-project"
+			"value" : "/Users/syednoumanalishah/OOP-Fall-2024/complex-project"
 		}
 	],
 	"kind" : "cache",
