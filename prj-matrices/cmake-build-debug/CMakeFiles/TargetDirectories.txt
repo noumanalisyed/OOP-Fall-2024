@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/OOP-Fall-2024/prj-matrices/cmake-build-debug/CMakeFiles/prj_matrices.dir
+/Users/syednoumanalishah/OOP-Fall-2024/prj-matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/OOP-Fall-2024/prj-matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
