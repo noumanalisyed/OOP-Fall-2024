@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/OOP-Fall-2024/deep-shalow-copy/cmake-build-debug/CMakeFiles/deep_shalow_copy.dir
+/Users/syednoumanalishah/OOP-Fall-2024/deep-shalow-copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/OOP-Fall-2024/deep-shalow-copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
