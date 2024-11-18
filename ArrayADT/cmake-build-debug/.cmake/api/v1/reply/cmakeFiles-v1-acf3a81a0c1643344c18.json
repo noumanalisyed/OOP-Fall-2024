@@ -150,8 +150,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/syednoumanalishah/OOP-Fall-2024/deep-copy/cmake-build-debug",
-		"source" : "/Users/syednoumanalishah/OOP-Fall-2024/deep-copy"
+		"build" : "/Users/syednoumanalishah/OOP-Fall-2024/ArrayADT/cmake-build-debug",
+		"source" : "/Users/syednoumanalishah/OOP-Fall-2024/ArrayADT"
 	},
 	"version" : 
 	{
