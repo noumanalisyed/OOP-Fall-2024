@@ -6,14 +6,30 @@
 
 // Constructor
 Book::Book(const char *bookTitle) {
+    //Book::title = (char *) bookTitle;
     title = new char[strlen(bookTitle) + 1];
     strcpy(title, bookTitle);
 }
 
 // Copy Constructor for deep copy
 Book::Book(const Book &other) {
-    title = new char[strlen(other.title) + 1];
-    strcpy(title, other.title);
+    if(other.title != NULL) {
+        title = new char[strlen(other.title) + 1];
+        strcpy(title, other.title);
+    }
+    else{
+        title = NULL;
+    }
+}
+
+Book::Book(const Book* other){
+    if(other->title != NULL) {
+        title = new char[strlen(other->title) + 1];
+        strcpy(title, other->title);
+    }
+    else{
+        title = NULL;
+    }
 }
 
 // Assignment Operator for deep copy
@@ -26,6 +42,9 @@ Book &Book::operator=(const Book &other) {
     return *this;
 }
 
+char * Book::getTitle(){
+    return title;
+}
 // Destructor
 Book::~Book() {
     delete[] title;

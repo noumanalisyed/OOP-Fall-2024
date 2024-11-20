@@ -9,9 +9,13 @@ Author::Author(const std::string &authorName, const char *bookTitle) : name(auth
     book = new Book(bookTitle);
 }
 
+Author::Author(const std::string& authorName, const Book * book) : name(authorName){
+    Author::book = new Book(book);
+}
 // Copy Constructor for deep copy
 Author::Author(const Author &other) : name(other.name) {
     book = new Book(*other.book); // Deep copy of the book
+   //book = other.book;   // shallow copy
 }
 
 // Assignment Operator for deep copy
@@ -31,5 +35,10 @@ Author::~Author() {
 
 void Author::printAuthorDetails() const {
     std::cout << "Author: " << name << std::endl;
-    book->printTitle();
+    if(book != NULL) {
+        book->printTitle();
+    }
+    else{
+        std::cout<<"Authors has no Books "<<std::endl;
+    }
 }

@@ -11,7 +11,7 @@ using namespace std;
 
 class Book {
 private:
-    char* title;
+    char* title {NULL};
 
 public:
     // Constructor
@@ -20,9 +20,12 @@ public:
     // Copy Constructor for deep copy
     Book(const Book& other) ;
 
+    Book(const Book* other) ;
+
     // Assignment Operator for deep copy
     Book& operator=(const Book& other) ;
 
+    char * getTitle();
     // Destructor
     ~Book() ;
 

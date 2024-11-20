@@ -9,13 +9,21 @@
 
 int main() {
     // Creating authors
-    Author author1("J.K. Rowling", "Harry Potter");
-    Author author2("J.R.R. Tolkien", "The Lord of the Rings");
+    Book b1("Harry Potter");
+    Book b2("The Lord of the Rings");
+    Book * b3 = NULL;
+
+    Author author1("J.K. Rowling", &b1);
+    Author author2("J.R.R. Tolkien", &b2);
+    Author author3("Deitel & Deitel", "C++ How to Program");
+    Author author4("Peter Jacobs", b3);
 
     // Creating a library and adding authors
     Library library;
     library.addAuthor(author1);
     library.addAuthor(author2);
+    library.addAuthor(author3);
+    library.addAuthor(author4);
 
     // Printing library details
     library.printLibraryDetails();

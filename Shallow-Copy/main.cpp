@@ -31,7 +31,11 @@ public:
         Box::width = b.width;
         Box::height = b.height;
         cout<<"Box -- Copy constructor called "<<endl;
-        array = b.array;
+        Box::array = b.array;  // shallow copy.
+        /*Box::array = new int[10];
+        for(int i =0; i < 10; i++){
+            Box::array[i] = b.array[i];
+        }*/
     }
     void init(){
         for (int i = 0; i < 10; ++i) {
@@ -54,8 +58,12 @@ public:
             displayArray();
         }
     }
+
     void setLenght(int length){
         Box::length = (length >= 0) ? length : 0;
+    }
+    int getLength(){
+        return length;
     }
     void setArrayElement(int data,int index){
         array[index] = data;
@@ -65,13 +73,23 @@ public:
 int main() {
     Box b1("b1");
     Box b2("b2",10,20,30);
+    b2.displayArray();
     Box b3("b3",b2);
-    b1.display();
+    b3.displayArray();
+    b3.setArrayElement(43,7);
+    b2.displayArray();
+    b3.displayArray();
+    cout<<"B2 length =  "<<b2.getLength()<<endl;
+    cout<<"B3 length =  "<<b3.getLength()<<endl;
+    b3.setLenght(85);
+    cout<<"B2 length =  "<<b2.getLength()<<endl;
+    cout<<"B3 length =  "<<b3.getLength()<<endl;
+    /*b1.display();
     b2.display();
     b3.display();
     b2.setLenght(12);
     b2.setArrayElement(83,5);
     b2.display();
-    b3.display();
+    b3.display();*/
     return 0;
 }

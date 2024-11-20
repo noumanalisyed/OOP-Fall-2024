@@ -3,13 +3,20 @@
 
 class Book {
 private:
-    std::string title;
+    std::string title {""};
 
 public:
-    Book(const std::string& title) : title(title) {}
+    Book(){
 
+    }
+    Book(const std::string& title) : title(title) {
+
+    }
     std::string getTitle() const {
         return title;
+    }
+    void setTitle(std::string title){
+        Book::title = title;
     }
 };
 
@@ -39,7 +46,11 @@ int main() {
     library.addBook(&book2);
 
     library.displayBooks();
-
+    Book book3("Lords of the Ring");
+    library.addBook(&book3);
+    library.displayBooks();
+    book3.setTitle("Harry Potter");
+    library.displayBooks();
     return 0;
 }
 

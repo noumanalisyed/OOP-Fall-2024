@@ -8,12 +8,14 @@
 #include "Book.h"
 class Author {
 private:
-    std::string name;
-    Book* book;
+    std::string name {""};
+    Book* book {NULL};
 
 public:
     // Constructor
     Author(const std::string& authorName, const char* bookTitle);
+
+    Author(const std::string& authorName, const Book * book);
 
     // Copy Constructor for deep copy
     Author(const Author& other);
