@@ -9,6 +9,7 @@ int addByRef(int &p, int &q);
 int main() {
     int a = 4, b = 6, c = 0;
     int &d = a; //shallow copy
+    int *p = &b;
     cout << "a = " << a << " address of a =" << &a << " , d = " << d << " , address of d =" << &d << endl;
     d++;
     cout << "a = " << a << " address of a =" << &a << " , d = " << d << " , address of d =" << &d << endl;

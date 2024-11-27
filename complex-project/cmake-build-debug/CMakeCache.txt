@@ -88,7 +88,7 @@ CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=/Users/syednoumanalishah/OOP-Fall-2024/complex-project/cmake-build-debug/CMakeFiles/pkgRedirects
 
 //Path to a program.
-CMAKE_INSTALL_NAME_TOOL:FILEPATH=/Users/syednoumanalishah/anaconda3/bin/install_name_tool
+CMAKE_INSTALL_NAME_TOOL:FILEPATH=/usr/bin/install_name_tool
 
 //Install path prefix, prepended onto install directories.
 CMAKE_INSTALL_PREFIX:PATH=/usr/local
@@ -238,7 +238,7 @@ CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
 CMAKE_CACHE_MINOR_VERSION:INTERNAL=30
 //Patch version of cmake used to create the current loaded cache
-CMAKE_CACHE_PATCH_VERSION:INTERNAL=3
+CMAKE_CACHE_PATCH_VERSION:INTERNAL=5
 //Path to CMake executable.
 CMAKE_COMMAND:INTERNAL=/Users/syednoumanalishah/Applications/CLion Nova.app/Contents/bin/cmake/mac/x64/bin/cmake
 //Path to cpack program executable.

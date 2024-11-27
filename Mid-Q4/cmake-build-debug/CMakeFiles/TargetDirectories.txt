@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/OOP-Fall-2024/Mid-Q4/cmake-build-debug/CMakeFiles/Mid_Q4.dir
+/Users/syednoumanalishah/OOP-Fall-2024/Mid-Q4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/OOP-Fall-2024/Mid-Q4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

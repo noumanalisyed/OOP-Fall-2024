@@ -1,6 +1,4 @@
 # ninja log v6
-31	1866	1728552168255438904	CMakeFiles/project_rational_9_9.dir/main.cpp.o	83ab7c23710e0361
-1867	2000	1728552170091555753	project_rational_9_9	b3f591ef4c6a83ae
 35	3981	1729844917772925175	CMakeFiles/project_rational_9_9.dir/main.cpp.o	a7ba236b9329eac5
-37	3995	1729844917774828388	CMakeFiles/project_rational_9_9.dir/RationalNumber.cpp.o	b8ad4e492178b8e3
 3995	4229	1729844921732785396	project_rational_9_9	282f61f09458de4e
+37	3995	1729844917774828388	CMakeFiles/project_rational_9_9.dir/RationalNumber.cpp.o	b8ad4e492178b8e3
