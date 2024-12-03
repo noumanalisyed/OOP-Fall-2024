@@ -1,4 +1,4 @@
-# Install script for directory: /Users/syednoumanalishah/PF-Fall-2024/circle-point-casestudy
+# Install script for directory: /Users/syednoumanalishah/PF-Fall-2024-Workspace/circle-point-casestudy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

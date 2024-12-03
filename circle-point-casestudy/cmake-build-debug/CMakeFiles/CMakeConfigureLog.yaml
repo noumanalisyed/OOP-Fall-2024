@@ -99,8 +99,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/syednoumanalishah/PF-Fall-2024/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-I9M9QN"
-      binary: "/Users/syednoumanalishah/PF-Fall-2024/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-I9M9QN"
+      source: "/Users/syednoumanalishah/PF-Fall-2024-Workspace/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-I9M9QN"
+      binary: "/Users/syednoumanalishah/PF-Fall-2024-Workspace/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-I9M9QN"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -260,8 +260,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/syednoumanalishah/PF-Fall-2024/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iWPMcq"
-      binary: "/Users/syednoumanalishah/PF-Fall-2024/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iWPMcq"
+      source: "/Users/syednoumanalishah/PF-Fall-2024-Workspace/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iWPMcq"
+      binary: "/Users/syednoumanalishah/PF-Fall-2024-Workspace/circle-point-casestudy/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iWPMcq"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
