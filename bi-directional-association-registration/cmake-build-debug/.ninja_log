@@ -1,0 +1,20 @@
+# ninja log v6
+49	5887	1733311741990078270	CMakeFiles/bi_directional_association.dir/main.cpp.o	f93907d1ec764969
+6339	7203	1733311748279021973	bi_directional_association	c6fb7dba2f82ee6c
+56	6200	1733311741996002099	CMakeFiles/bi_directional_association.dir/Student.cpp.o	6fa7089fec60372
+51	6338	1733311741993044292	CMakeFiles/bi_directional_association.dir/Course.cpp.o	f27cf14ce8dae002
+22	1792	1733345597422385409	CMakeFiles/bi_directional_association.dir/main.cpp.o	ff74cc3690c1ea
+24	1866	1733345597424718192	CMakeFiles/bi_directional_association.dir/Student.cpp.o	5889b81e7a766af9
+16	3875	1733345645952978541	CMakeFiles/bi_directional_association.dir/main.cpp.o	ff74cc3690c1ea
+18	4049	1733345645956300379	CMakeFiles/bi_directional_association.dir/Course.cpp.o	dc6fb81720d28b3
+20	4074	1733345645957851140	CMakeFiles/bi_directional_association.dir/Student.cpp.o	5889b81e7a766af9
+9	37	1733346077590472989	clean	4f8582025e963032
+5	27	1733346094330071826	clean	4f8582025e963032
+25	7826	1733346094493595346	CMakeFiles/bi_directional_association.dir/main.cpp.o	ff74cc3690c1ea
+27	8290	1733346094497334310	CMakeFiles/bi_directional_association.dir/Course.cpp.o	dc6fb81720d28b3
+30	8327	1733346094499012093	CMakeFiles/bi_directional_association.dir/Student.cpp.o	5889b81e7a766af9
+45	59	1733408862168292289	clean	4f8582025e963032
+7	22	1733409058148850705	clean	4f8582025e963032
+18	36	1733409073504396121	clean	4f8582025e963032
+29	44	1733409177379488020	clean	4f8582025e963032
+5	17	1733409181848528921	clean	4f8582025e963032

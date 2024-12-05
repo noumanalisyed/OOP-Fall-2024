@@ -1,0 +1,12 @@
+# ninja log v6
+40	2348	1733412586997246304	CMakeFiles/Course_Student_Reg_Casestudy.dir/main.cpp.o	6e26108f48181890
+2670	2790	1733410275776652366	Course_Student_Reg_Casestudy	96d30f46bb08d195
+39	3567	1733412630771245455	CMakeFiles/Course_Student_Reg_Casestudy.dir/Registration.cpp.o	717befdca04cbedf
+37	3713	1733412630768235551	CMakeFiles/Course_Student_Reg_Casestudy.dir/Student.cpp.o	2704b867f47bf054
+38	3721	1733412630769665919	CMakeFiles/Course_Student_Reg_Casestudy.dir/Course.cpp.o	15b490d4fe927c53
+3721	3876	1733412634452402278	Course_Student_Reg_Casestudy	cd48f5446f34dbb6
+33	3939	1733413470471660923	CMakeFiles/Course_Student_Reg_Casestudy.dir/main.cpp.o	6e26108f48181890
+46	3967	1733413470484488742	CMakeFiles/Course_Student_Reg_Casestudy.dir/Course.cpp.o	15b490d4fe927c53
+41	3975	1733413470483005680	CMakeFiles/Course_Student_Reg_Casestudy.dir/Student.cpp.o	2704b867f47bf054
+3940	5552	1733413474378475853	CMakeFiles/Course_Student_Reg_Casestudy.dir/Registration.cpp.o	717befdca04cbedf
+5553	6054	1733413475990979695	Course_Student_Reg_Casestudy	cd48f5446f34dbb6

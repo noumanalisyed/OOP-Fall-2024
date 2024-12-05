@@ -1,3 +1,9 @@
 # ninja log v6
 7	4767	1731908905644399435	CMakeFiles/bi_directional_association.dir/main.cpp.o	f93907d1ec764969
 4777	4971	1731908910414515021	bi_directional_association	6d10c1b209c88668
+47	5579	1733311716573807095	CMakeFiles/bi_directional_association.dir/main.cpp.o	f93907d1ec764969
+53	5956	1733311716579033953	CMakeFiles/bi_directional_association.dir/Student.cpp.o	6fa7089fec60372
+49	5887	1733311741990078270	CMakeFiles/bi_directional_association.dir/main.cpp.o	f93907d1ec764969
+56	6200	1733311741996002099	CMakeFiles/bi_directional_association.dir/Student.cpp.o	6fa7089fec60372
+51	6338	1733311741993044292	CMakeFiles/bi_directional_association.dir/Course.cpp.o	f27cf14ce8dae002
+6339	7203	1733311748279021973	bi_directional_association	c6fb7dba2f82ee6c

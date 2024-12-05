@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include "Student.h"
-
+class Student;
 class Course {
 private:
     std::string name;

@@ -8,6 +8,7 @@
 #include <iostream>
 #include "Course.h"
 #include <vector>
+class Course;
 class Student {
 private:
     std::string name;
