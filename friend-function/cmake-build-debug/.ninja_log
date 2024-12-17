@@ -1,0 +1,5 @@
+# ninja log v6
+5	3341	1733743016924023530	CMakeFiles/friend_function.dir/main.cpp.o	da64e1aaa50374b
+3349	3560	1733743020268239252	friend_function	3554acd09cdea232
+47	13381	1733823904014859006	CMakeFiles/friend_function.dir/main.cpp.o	da64e1aaa50374b
+13401	18577	1733823917368693554	friend_function	3554acd09cdea232

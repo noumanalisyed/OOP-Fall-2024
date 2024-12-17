@@ -1,0 +1,11 @@
+# ninja log v6
+178	2889	1734349371917641787	CMakeFiles/inheritance_project.dir/main.cpp.o	add585e736406018
+43	3153	1734349178049929764	CMakeFiles/inheritance_project.dir/Circle.cpp.o	f04d61f47e39e224
+3	5370	1734349107475283615	CMakeFiles/inheritance_project.dir/Shape.cpp.o	3da8db18f9424248
+40	3164	1734349178046680089	CMakeFiles/inheritance_project.dir/Point.cpp.o	e13f2bf424a747df
+2889	3042	1734349374630714533	inheritance_project	eb76de1e4a2b15d0
+34	4072	1734350393114250935	CMakeFiles/inheritance_project.dir/main.cpp.o	add585e736406018
+36	4081	1734350393116514570	CMakeFiles/inheritance_project.dir/Circle.cpp.o	f04d61f47e39e224
+35	4093	1734350393115724206	CMakeFiles/inheritance_project.dir/Shape.cpp.o	3da8db18f9424248
+4072	5660	1734350397152246568	CMakeFiles/inheritance_project.dir/Rectangle.cpp.o	76d9f50091441184
+5660	6148	1734350398740253600	inheritance_project	d5b089a2814a96db

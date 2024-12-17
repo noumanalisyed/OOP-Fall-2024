@@ -1,0 +1,14 @@
+# ninja log v6
+9	6671	1734343656665151975	CMakeFiles/exchange_template.dir/src/main.cpp.o	99f4bff1f34b1fd8
+18	6767	1734343656667303981	CMakeFiles/exchange_template.dir/src/MerkelMain.cpp.o	ac5acabd5adc06d4
+6	7462	1734343656655851350	CMakeFiles/exchange_template.dir/src/CSVReader.cpp.o	48984b434dbabcc9
+6767	9200	1734343663416648234	CMakeFiles/exchange_template.dir/src/OrderBookEntry.cpp.o	f3eaa9e78ab8f30b
+7463	10056	1734343664112656974	CMakeFiles/exchange_template.dir/src/Wallet.cpp.o	c44fd2f23588305b
+6680	10327	1734343663330218819	CMakeFiles/exchange_template.dir/src/OrderBook.cpp.o	cc4497538273ec34
+10327	10706	1734343666976998211	exchange_template	803306e6b1055ef7
+115	6257	1734343716014270049	CMakeFiles/exchange_template.dir/src/main.cpp.o	99f4bff1f34b1fd8
+118	6369	1734343716049426860	CMakeFiles/exchange_template.dir/src/MerkelMain.cpp.o	ac5acabd5adc06d4
+6369	6640	1734343722267864645	exchange_template	803306e6b1055ef7
+74	18172	1734343885121611996	CMakeFiles/exchange_template.dir/src/main.cpp.o	99f4bff1f34b1fd8
+79	18245	1734343885130446663	CMakeFiles/exchange_template.dir/src/MerkelMain.cpp.o	ac5acabd5adc06d4
+18246	20181	1734343903292436641	exchange_template	803306e6b1055ef7
