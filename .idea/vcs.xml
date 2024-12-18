@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CPlusPlusHowToProgram10e" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/problem-10-10-new" vcs="Git" />
   </component>
 </project>

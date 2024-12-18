@@ -1,0 +1,7 @@
+# ninja log v6
+4	3248	1734544334188957189	CMakeFiles/inheritance_step6.dir/BasePlusCommissionEmployee.cpp.o	4440a823d095dc88
+4	3263	1734544334189882971	CMakeFiles/inheritance_step6.dir/CommissionEmployee.cpp.o	50fcba69318ec92c
+5	3267	1734544334190528002	CMakeFiles/inheritance_step6.dir/Employee.cpp.o	f949e698e079e165
+3263	4731	1734544337447989731	CMakeFiles/inheritance_step6.dir/SalariedEmployee.cpp.o	7d4d6eff14eaaec
+3255	4839	1734544337440465578	CMakeFiles/inheritance_step6.dir/fig12_19.cpp.o	bed7008f607d3d5c
+4839	5275	1734544339024077591	inheritance_step6	bccb69f833767631
