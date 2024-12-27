@@ -6,6 +6,7 @@
 
 class BasePlusCommissionEmployee : public CommissionEmployee {
 public:
+   BasePlusCommissionEmployee() = default;
    BasePlusCommissionEmployee(const std::string&, const std::string&,
       const std::string&, double = 0.0, double = 0.0, double = 0.0);
 
@@ -15,7 +16,7 @@ public:
    double earnings() const; // calculate earnings
    std::string toString() const; // create string representation
 private:
-   double baseSalary; // base salary
+   double baseSalary {0.0f}; // base salary
 };
 
 #endif

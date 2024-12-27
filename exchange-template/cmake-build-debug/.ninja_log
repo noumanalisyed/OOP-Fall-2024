@@ -12,3 +12,10 @@
 74	18172	1734343885121611996	CMakeFiles/exchange_template.dir/src/main.cpp.o	99f4bff1f34b1fd8
 79	18245	1734343885130446663	CMakeFiles/exchange_template.dir/src/MerkelMain.cpp.o	ac5acabd5adc06d4
 18246	20181	1734343903292436641	exchange_template	803306e6b1055ef7
+69	2024	1734604019462694055	CMakeFiles/exchange_template.dir/src/main.cpp.o	99f4bff1f34b1fd8
+71	2120	1734604019466310264	CMakeFiles/exchange_template.dir/src/MerkelMain.cpp.o	ac5acabd5adc06d4
+2121	2341	1734604021514536100	exchange_template	803306e6b1055ef7
+256	8868	1734606763689660234	CMakeFiles/exchange_template.dir/src/main.cpp.o	99f4bff1f34b1fd8
+258	8952	1734606763693179864	CMakeFiles/exchange_template.dir/src/MerkelMain.cpp.o	ac5acabd5adc06d4
+262	9128	1734606763695063826	CMakeFiles/exchange_template.dir/src/OrderBook.cpp.o	cc4497538273ec34
+9128	12540	1734606772561882636	exchange_template	803306e6b1055ef7

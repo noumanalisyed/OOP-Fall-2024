@@ -1,0 +1,6 @@
+# ninja log v6
+41	3165	1735208729584426923	CMakeFiles/polymorphism.dir/main.cpp.o	141970928cc76392
+25	51	1735208495502735269	clean	83894db720a180e2
+45	3225	1735208729588223754	CMakeFiles/polymorphism.dir/Circle.cpp.o	49bf44fe820e1c53
+3165	5089	1735208732708616586	CMakeFiles/polymorphism.dir/Point.cpp.o	5cdfc4d49068d0b7
+42	3212	1735208729586004910	CMakeFiles/polymorphism.dir/Rectangle.cpp.o	6ada26ea6694ac58

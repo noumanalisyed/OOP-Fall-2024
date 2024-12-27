@@ -5,9 +5,9 @@
 using namespace std;
 
 // constructor
-CommissionEmployee::CommissionEmployee(const string &first,
+CommissionEmployee::CommissionEmployee(const string &firstName,
    const string &last, const string &ssn, double sales, double rate)
-   : firstName(first), lastName(last), socialSecurityNumber(ssn) {
+   : firstName(firstName), lastName(last), socialSecurityNumber(ssn) {
    setGrossSales(sales); // validate and store gross sales
    setCommissionRate(rate); // validate and store commission rate
 }
@@ -43,7 +43,6 @@ void CommissionEmployee::setGrossSales(double sales) {
    if (sales < 0.0) {
       throw invalid_argument("Gross sales must be >= 0.0");
    }
-
    grossSales = sales;
 }
 

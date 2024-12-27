@@ -7,7 +7,8 @@ using namespace std;
 
 int main() {
    // create base-class object
-   CommissionEmployee commissionEmployee{"Sue", "Jones", "222-22-2222", 10000, .06};
+   CommissionEmployee
+    commissionEmployee{"Sue", "Jones", "222-22-2222", 10000, .06};
 
    // create derived-class object
    BasePlusCommissionEmployee basePlusCommissionEmployee{
@@ -18,8 +19,10 @@ int main() {
    // output objects commissionEmployee and basePlusCommissionEmployee
    cout << "DISPLAY BASE-CLASS AND DERIVED-CLASS OBJECTS:\n"
       << commissionEmployee.toString() // base-class toString
+      <<"\nEarning = "<<commissionEmployee.earnings()
       << "\n\n"
-      << basePlusCommissionEmployee.toString(); // derived-class toString
+      << basePlusCommissionEmployee.toString()
+      <<"\nEarning = "<<basePlusCommissionEmployee.earnings(); // derived-class toString
 
    // natural: aim base-class pointer at base-class object        
    CommissionEmployee* commissionEmployeePtr{&commissionEmployee};

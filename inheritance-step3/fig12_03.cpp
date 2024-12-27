@@ -13,6 +13,7 @@ int main() {
    // invoke base-class member functions on derived-class
    // object through base-class pointer (allowed)
    string firstName{commissionEmployeePtr->getFirstName()};
+   //string firstName = commissionEmployeePtr->getFirstName();
    string lastName{commissionEmployeePtr->getLastName()};
    string ssn{commissionEmployeePtr->getSocialSecurityNumber()};
    double grossSales{commissionEmployeePtr->getGrossSales()};

@@ -5,6 +5,7 @@
 
 class CommissionEmployee {
 public:
+    CommissionEmployee() = default;
    CommissionEmployee(const std::string&, const std::string&,
       const std::string&, double = 0.0, double = 0.0);
 
@@ -26,11 +27,11 @@ public:
    double earnings() const; // calculate earnings
    std::string toString() const; // create string representation
 private:
-   std::string firstName;
-   std::string lastName;
-   std::string socialSecurityNumber;
-   double grossSales; // gross weekly sales
-   double commissionRate; // commission percentage
+   std::string firstName {""};
+   std::string lastName {""};
+   std::string socialSecurityNumber {""};
+   double grossSales {0.0f}; // gross weekly sales
+   double commissionRate {0.0f}; // commission percentage
 };
 
 #endif
