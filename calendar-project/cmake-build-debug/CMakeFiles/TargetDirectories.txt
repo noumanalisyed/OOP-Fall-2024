@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/CLionProjects/calendar-project/cmake-build-debug/CMakeFiles/calendar_project.dir
+/Users/syednoumanalishah/CLionProjects/calendar-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/CLionProjects/calendar-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,6 +1,0 @@
-/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/syednoumanalishah/OOP-Fall-2024/dynamic-inding -B /Users/syednoumanalishah/OOP-Fall-2024/dynamic-inding/cmake-build-debug
-CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
-  CMake 3.31 or higher is required.  You are running version 3.29.6
-
-
--- Configuring incomplete, errors occurred!

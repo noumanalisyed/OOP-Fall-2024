@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DateConverter_withTests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DesignPatternsInUse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huge-integer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/problem-10-10-new" vcs="Git" />
   </component>
 </project>

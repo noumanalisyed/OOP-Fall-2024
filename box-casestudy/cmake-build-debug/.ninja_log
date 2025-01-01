@@ -1,0 +1,15 @@
+# ninja log v5
+2	3599	1701004294541322486	CMakeFiles/box_casestudy.dir/Box.cpp.o	58370c8a9c63ef9f
+0	3623	1701004294587327275	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+34	4698	1701005239396607237	CMakeFiles/box_casestudy.dir/Box.cpp.o	58370c8a9c63ef9f
+31	4823	1701005239519595750	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+28	3164	1701005266790267591	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+3164	3407	1701005267044292773	box_casestudy	49bbbd231ebf38e3
+20	4469	1701005305732387985	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+4469	4667	1701005305944251048	box_casestudy	49bbbd231ebf38e3
+27	3184	1701005333552696175	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+3185	3319	1701005333694960202	box_casestudy	49bbbd231ebf38e3
+25	1874	1701005354848461450	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+33	3999	1701005489398396665	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+17	3465	1701005537626452374	CMakeFiles/box_casestudy.dir/main.cpp.o	776284959e3fd591
+25	2997	1701005814834184830	CMakeFiles/box_casestudy.dir/Box.cpp.o	58370c8a9c63ef9f

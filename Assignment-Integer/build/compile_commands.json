@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Programming Projects/OOP/Assignment-Integer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Programming Projects\\OOP\\Assignment-Integer\\main.cpp\"",
+  "file": "C:/Programming Projects/OOP/Assignment-Integer/main.cpp"
+},
+{
+  "directory": "C:/Programming Projects/OOP/Assignment-Integer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\IntegerClass.cpp.obj -c \"C:\\Programming Projects\\OOP\\Assignment-Integer\\IntegerClass.cpp\"",
+  "file": "C:/Programming Projects/OOP/Assignment-Integer/IntegerClass.cpp"
+}
+]

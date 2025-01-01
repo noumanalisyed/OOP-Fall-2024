@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/CLionProjects/BankAccount-Project/cmake-build-debug/CMakeFiles/BankAccount_Project.dir
+/Users/syednoumanalishah/CLionProjects/BankAccount-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/CLionProjects/BankAccount-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

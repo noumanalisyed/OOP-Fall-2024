@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/CLionProjects/m-inheritance/cmake-build-debug/CMakeFiles/m_inheritance.dir
+/Users/syednoumanalishah/CLionProjects/m-inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/CLionProjects/m-inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

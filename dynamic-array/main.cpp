@@ -1,59 +1,77 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
-int main() {
-    const int size = 5;
-    int x[size] = {1,2,3,4,5};
-    for (int i = 0; i < size; ++i) {
-        cout<<x[i]<<" ,  ";
+
+class DynamicArray{
+private:
+
+    int *arr;
+    int count=0;
+    static int size;
+public:
+    DynamicArray(){
+        size = 5;
+        arr = new int[size];
     }
-    cout<<endl;
-    int * ptr;
-    ptr = new int [size];
 
-    /*for (int i = 0; i < size; ++i) {
-        cout<<"Enter Values at ptr["<<i<<"] = ";
-        cin>>ptr[i];
-    }
-    for (int i = 0; i < size; ++i) {
-        cout<<ptr[i]<<" ,  ";
-    }*/
+    void addValues(int value){
 
-    const int row = 3;
-    const int col = 3;
-    int p[row][col] = {{1,2,3},
-                       {4,5,6},
-                       {7,8,9}};
-
-    for(int k =0; k < row; k++){
-        for (int m = 0; m < col; ++m) {
-            cout<<p[k][m]<<" ,  ";
+        if(count<size){
+            arr[count] = value;
+            count++;
+        }else{
+            size += 5;
+            int *ptr = new int[size];
+            for(int i=0;i<count;i++){
+                ptr[i] = arr[i];
+            }
+            delete [] arr;
+            arr = ptr;
+            ptr = nullptr;
+            arr[count] = value;
+            count++;
         }
-        cout<<endl;
     }
 
-    int **sptr;
-
-    sptr = new int *[row];
-
-    for (int i = 0; i < row; ++i) {
-        sptr[i] = new int[col];
+    int getSize(){
+        return size;
     }
 
-    for(int k =0; k < row; k++){
-        for (int m = 0; m < col; ++m) {
-            cout<<"Enter value at SPTR ["<<k<<"]["<<m<<"] = ";
-            cin>>sptr[k][m];
+    void display(){
+        for(int i=0;i<count;i++){
+            cout << arr[i] << endl;
         }
-        cout<<endl;
     }
+};
 
-    for(int k =0; k < row; k++){
-        for (int m = 0; m < col; ++m) {
-            cout<<sptr[k][m]<<" ";
+int DynamicArray::size;
+
+int main()
+{
+    DynamicArray arr1;
+
+    bool flag = false;
+    int x;
+    char choice;
+    do{
+        cout << "Enter Integer: ";
+        cin >> x;
+        arr1.addValues(x);
+        cout << "Enter a to add and x to exit: ";
+        cin >> choice;
+
+        if(choice == 'x'){
+            flag = true;
         }
-        cout<<endl;
-    }
 
+    }while(flag==false);
+
+    arr1.display();
+    cout << arr1.getSize();
+
+
+
+    cout << endl;
     return 0;
 }

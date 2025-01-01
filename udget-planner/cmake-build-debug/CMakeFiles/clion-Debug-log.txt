@@ -1,0 +1,4 @@
+/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/syednoumanalishah/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/syednoumanalishah/CLionProjects/udget-planner -B /Users/syednoumanalishah/CLionProjects/udget-planner/cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/syednoumanalishah/CLionProjects/udget-planner/cmake-build-debug

@@ -1,0 +1,7 @@
+# ninja log v6
+103	5889	1735635359944343314	CMakeFiles/calendar_project.dir/main.cpp.o	682d7edb3ca92ece
+105	5896	1735635359957810837	CMakeFiles/calendar_project.dir/Time.cpp.o	f3742428b3b3865d
+118	5923	1735635359959692751	CMakeFiles/calendar_project.dir/Date.cpp.o	6bfac2ff8d7febe0
+5890	8240	1735635365731537939	CMakeFiles/calendar_project.dir/Calendar.cpp.o	c362c5d0cdc47c4c
+5896	8271	1735635365737209178	CMakeFiles/calendar_project.dir/event.cpp.o	60f5ae90e339e09b
+8271	9011	1735635368112046945	calendar_project	9619cd240edacd32

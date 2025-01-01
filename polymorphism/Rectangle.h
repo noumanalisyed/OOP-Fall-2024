@@ -19,10 +19,6 @@ public:
 
     virtual double area() ;
 
-
-
-
-
 private:
     float length{0.0f};
     float width{0.0f};
