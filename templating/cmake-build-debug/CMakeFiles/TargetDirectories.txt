@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/OOP-Fall-2024/templating/cmake-build-debug/CMakeFiles/templating.dir
+/Users/syednoumanalishah/OOP-Fall-2024/templating/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/OOP-Fall-2024/templating/cmake-build-debug/CMakeFiles/rebuild_cache.dir
